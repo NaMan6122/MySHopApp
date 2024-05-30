@@ -1,6 +1,12 @@
 # myproject
 
-A new Flutter project.
+This is an Ecommerce Shopping Application Frontend Interface, Built Using Flutter Framework.
+Features:
+-Built in Default Dark Mode, Which in future will be an option to switch in between light mode and dark mode using customizable interface.
+-Smooth UI experience, Just like modern day shopping applications.
+-Two-way login process, Using OTP and Email-sign in.
+-Customized sections for different users, such as the favouritespage, likes items, shopping cart and much more.
+-Fun project, Which just contains the frontend of an application, which is well built from scratch.
 
 ## Getting Started
 
